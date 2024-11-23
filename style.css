@@ -13,3 +13,15 @@ body{
     color: ghostwhite;
     margin-bottom: 100px;
 }
+header{
+    font-size: 35px;
+    color: beige;
+    border-bottom: 3px solid beige;
+    padding: 20px;
+}
+h1{
+    font-size: 40px;
+}
+.chamada-text{
+    margin-right: 5%;
+}
